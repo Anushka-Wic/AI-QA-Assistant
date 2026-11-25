@@ -1,0 +1,6 @@
+{
+  "name": "AI QA Assistant",
+  "description": "A tool that generates comprehensive test cases, mind maps, ambiguities, feature files, visual regression analysis, log analysis and checks accessibility with embedded prompt and custom SKILL file support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
